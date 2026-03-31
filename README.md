@@ -2,6 +2,17 @@
 
 A clean and minimal UI application demonstrating seamless light/dark theme switching using React’s Context API. Built with a focus on simplicity, scalability, and modern UI practices.
 
+## Live Demo
+[Click Me](https://theme-ui-sepia.vercel.app/)
+
+## Preview
+Light Mode<br>
+<img src="./public/ThemeUI-1.png">
+
+<br>
+Dark Mode<br>
+<img src="./public/ThemeUI-2.png">
+
 ## Features
 - Toggle between Light and Dark mode
 - Global state management using React Context API
